@@ -18,14 +18,11 @@
                     string maxID = "";
                     while (!e.End())
                     {
-                        //Console.WriteLine(max);
                         if (max < e.current.workHrsSum)
                         {
                             max = e.current.workHrsSum;
-                            //Console.WriteLine(e.current.w);
                             maxID = e.current.id;
                         }
-                        //Console.WriteLine(max);
                         e.Next();
                     }
                     Console.WriteLine($"{maxID} -> {max} hours");
