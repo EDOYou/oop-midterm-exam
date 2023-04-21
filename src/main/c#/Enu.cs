@@ -60,7 +60,7 @@ namespace oop_midterm
                 current.id = data[0];
                 current.extraWorkHrs = int.Parse(data[1]);
 
-                //Console.WriteLine(current.extraWorkHrs);
+                current.workHrsSum = 0;
                 while (status == Status.norm && row.Split(' ')[0].Equals(current.id))
                 {
                     //Console.WriteLine($"{current.id} {current.extraWorkHrs}");
