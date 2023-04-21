@@ -1,0 +1,17 @@
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/obj/Debug/net7.0/c#.csproj.AssemblyReference.cache
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/obj/Debug/net7.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/obj/Debug/net7.0/c#.AssemblyInfoInputs.cache
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/obj/Debug/net7.0/c#.AssemblyInfo.cs
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/obj/Debug/net7.0/c#.csproj.CoreCompileInputs.cache
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/bin/Debug/net7.0/c#
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/bin/Debug/net7.0/c#.deps.json
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/bin/Debug/net7.0/c#.runtimeconfig.json
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/bin/Debug/net7.0/c#.dll
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/bin/Debug/net7.0/c#.pdb
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/bin/Debug/net7.0/TextFile.dll
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/obj/Debug/net7.0/c#.csproj.CopyComplete
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/obj/Debug/net7.0/c#.dll
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/obj/Debug/net7.0/refint/c#.dll
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/obj/Debug/net7.0/c#.pdb
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/obj/Debug/net7.0/c#.genruntimeconfig.cache
+/media/edoyou/HDD/Kanan/uni-folder/oop-projects/mid3-exam/src/main/c#/obj/Debug/net7.0/ref/c#.dll
