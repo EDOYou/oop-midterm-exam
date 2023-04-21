@@ -15,6 +15,7 @@
 
                     e.First();
                     int max = 0;
+                    string maxID = "";
                     while (!e.End())
                     {
                         //Console.WriteLine(max);
@@ -22,12 +23,12 @@
                         {
                             max = e.current.workHrsSum;
                             //Console.WriteLine(e.current.w);
-                            //maxID = e.current.id;
+                            maxID = e.current.id;
                         }
-                        Console.WriteLine(max);
+                        //Console.WriteLine(max);
                         e.Next();
                     }
-                    //Console.WriteLine($"{maxID} -> {max} hours");
+                    Console.WriteLine($"{maxID} -> {max} hours");
                     fileError = false;
                 }
                 catch (System.IO.FileNotFoundException ex)
